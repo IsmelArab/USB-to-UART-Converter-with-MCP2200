@@ -1,0 +1,14 @@
+Board Information Report
+Filename     : E:\Trabajo PCB\Proyectos\Altium\USB to UART Converter use MCP2200\UART Converter use MCP2200\UART Converter use MCP2200.PcbDoc
+Date         : 20/03/2025
+Time         : 20:52:09
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 44.206mmx37.2972mm
+    Components on board, 30
+count : 2
+
+Non-Plated Hole Size, Pads, Vias
+    0mm, 96, 0
+count : 1
