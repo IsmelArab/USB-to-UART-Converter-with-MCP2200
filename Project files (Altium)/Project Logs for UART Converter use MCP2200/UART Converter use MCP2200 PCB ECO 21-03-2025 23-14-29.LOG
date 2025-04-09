@@ -1,0 +1,37 @@
+Change Footprint: Footprint Not Found EEE0GA101SR
+Change Component Footprint: Designator=C9 Old Footprint=CAPC3216X100N New Footprint=EEE1AA220WR
+Change Component Footprint: Designator=C10 Old Footprint=CAPC3216X100N New Footprint=EEE1AA220WR
+Change Component Comment : Designator=C10 Old Comment=10uF New Comment=EEE1AA100NR
+Change Component Comment : Designator=C8 Old Comment=10uF New Comment=EEE-1AA101WR
+Change Component Comment : Designator=C9 Old Comment=100uF New Comment=EEE1AA100NR
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPC3216X100N"; UniqueID = "\UALGNRNY" ("\UALGNRNY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "EEE-1AA101WR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/eee-1aa101wr/panasonic?utm_currency=USD&region=europe"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1145.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE-1AA101WR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "667-EEE-1AA101WR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Panasonic/EEE-1AA101WR?qs=ANJC8C65Mw69l04MNJ%252BCMg%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC3216X100N"; UniqueID = "\HXLPBLDF" ("\HXLPBLDF")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1145.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE1AA100NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC3216X100N"; UniqueID = "\SSOYORAL" ("\SSOYORAL")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1145.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE1AA100NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C8-1
+Added Pin To Net: NetName=PW5V Pin=C9-1
+Added Pin To Net: NetName=3.3V Pin=IC1-4
+Added Pin To Net: NetName=3.3V Pin=R10-1

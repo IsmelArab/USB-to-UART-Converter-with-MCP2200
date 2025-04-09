@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=PW3.3V Pin=IC1-2
+Change Component DesignItemId : Designator=C8 Old DesignItemId=EEE-1AA101WR New DesignItemId=EEE1AA100NR
+Change Component Footprint: Designator=C8 Old Footprint=CAPC3216X100N New Footprint=EEE1AA220WR
+Change Component Comment : Designator=C9 Old Comment=EEE1AA100NR New Comment=10uF
+Change Component Comment : Designator=C10 Old Comment=EEE1AA100NR New Comment=10uF
+Change Component Comment : Designator=C8 Old Comment=EEE-1AA101WR New Comment=100uF
+Change Component Library : Designator=C8 Old Library=* New Library=SamacSys.SchLib
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPC3216X100N"; UniqueID = "\UALGNRNY" ("\UALGNRNY")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1145.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "EEE1AA100NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"

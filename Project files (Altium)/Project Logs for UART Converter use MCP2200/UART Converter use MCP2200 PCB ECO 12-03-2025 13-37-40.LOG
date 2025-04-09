@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=NetC5_2 Pin=C4-2
+Added Pin To Net: NetName=NetC5_2 Pin=IC3-2
+Added Pin To Net: NetName=NetC5_2 Pin=Y1-3
+Change Net Name : Old Net Name=+3.3V New Net Name=PW3.3V
+Change Net Name : Old Net Name=+5V New Net Name=PW5V
+Change Net Name : Old Net Name=NetC5_2 New Net Name=Uc
+Added Pin To Net: NetName=D+ Pin=IC2-1
+Added Pin To Net: NetName=D+ Pin=IC2-6
+Added Pin To Net: NetName=D+ Pin=J1-3
+Added Pin To Net: NetName=D+ Pin=R2-1
+Added Net: Name=D+
+Added Pin To Net: NetName=D- Pin=IC2-3
+Added Pin To Net: NetName=D- Pin=IC2-4
+Added Pin To Net: NetName=D- Pin=J1-2
+Added Pin To Net: NetName=D- Pin=R3-1
+Added Net: Name=D-
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4
